@@ -9,3 +9,14 @@ C:\DevEnv\csharplearning\gradebook\src\Gradebook\obj\Debug\netcoreapp3.0\Gradebo
 C:\DevEnv\csharplearning\gradebook\src\Gradebook\obj\Debug\netcoreapp3.0\Gradebook.dll
 C:\DevEnv\csharplearning\gradebook\src\Gradebook\obj\Debug\netcoreapp3.0\Gradebook.pdb
 C:\DevEnv\csharplearning\gradebook\src\Gradebook\obj\Debug\netcoreapp3.0\Gradebook.csprojAssemblyReference.cache
+C:\DevEnv\Learning\PluralSight\csharplearning\gradebook\src\Gradebook\bin\Debug\netcoreapp3.0\Gradebook.exe
+C:\DevEnv\Learning\PluralSight\csharplearning\gradebook\src\Gradebook\bin\Debug\netcoreapp3.0\Gradebook.deps.json
+C:\DevEnv\Learning\PluralSight\csharplearning\gradebook\src\Gradebook\bin\Debug\netcoreapp3.0\Gradebook.runtimeconfig.json
+C:\DevEnv\Learning\PluralSight\csharplearning\gradebook\src\Gradebook\bin\Debug\netcoreapp3.0\Gradebook.runtimeconfig.dev.json
+C:\DevEnv\Learning\PluralSight\csharplearning\gradebook\src\Gradebook\bin\Debug\netcoreapp3.0\Gradebook.dll
+C:\DevEnv\Learning\PluralSight\csharplearning\gradebook\src\Gradebook\bin\Debug\netcoreapp3.0\Gradebook.pdb
+C:\DevEnv\Learning\PluralSight\csharplearning\gradebook\src\Gradebook\obj\Debug\netcoreapp3.0\Gradebook.csprojAssemblyReference.cache
+C:\DevEnv\Learning\PluralSight\csharplearning\gradebook\src\Gradebook\obj\Debug\netcoreapp3.0\Gradebook.AssemblyInfoInputs.cache
+C:\DevEnv\Learning\PluralSight\csharplearning\gradebook\src\Gradebook\obj\Debug\netcoreapp3.0\Gradebook.AssemblyInfo.cs
+C:\DevEnv\Learning\PluralSight\csharplearning\gradebook\src\Gradebook\obj\Debug\netcoreapp3.0\Gradebook.dll
+C:\DevEnv\Learning\PluralSight\csharplearning\gradebook\src\Gradebook\obj\Debug\netcoreapp3.0\Gradebook.pdb

@@ -18,9 +18,21 @@ namespace Gradebook
             Name = name;
         }
 
+        public void AddLetterGrade(char letter)
+        {
+
+        }
+
         public void AddGrade(double grade)
         {
-            grades.Add(grade);
+            if (grade <= 100 && grade >= 0)
+            {
+                grades.Add(grade);
+            }
+            else
+            {
+                Console.WriteLine("invalid value");
+            }
         }
 
         public Statistics GetStatistics()
@@ -42,6 +54,7 @@ namespace Gradebook
         private void CalculateStatistics()
         {
             double total = 0.0;
+
             foreach (double grade in grades)
             {
                 SetLowGrade(grade);

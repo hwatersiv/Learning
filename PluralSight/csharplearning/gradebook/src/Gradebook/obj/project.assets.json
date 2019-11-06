@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DevEnv\\csharplearning\\gradebook\\src\\Gradebook\\Gradebook.csproj",
+      "projectUniqueName": "C:\\DevEnv\\Learning\\PluralSight\\csharplearning\\gradebook\\src\\Gradebook\\Gradebook.csproj",
       "projectName": "Gradebook",
-      "projectPath": "C:\\DevEnv\\csharplearning\\gradebook\\src\\Gradebook\\Gradebook.csproj",
+      "projectPath": "C:\\DevEnv\\Learning\\PluralSight\\csharplearning\\gradebook\\src\\Gradebook\\Gradebook.csproj",
       "packagesPath": "C:\\Users\\HermanVonWaters\\.nuget\\packages\\",
-      "outputPath": "C:\\DevEnv\\csharplearning\\gradebook\\src\\Gradebook\\obj\\",
+      "outputPath": "C:\\DevEnv\\Learning\\PluralSight\\csharplearning\\gradebook\\src\\Gradebook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
